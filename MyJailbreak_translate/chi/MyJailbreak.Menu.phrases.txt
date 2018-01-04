@@ -185,7 +185,7 @@
 
 	"menu_catch"
 	{
-		"chi"		"Catch & Freeze"
+		"chi"		"警察抓小偷"
 	}
 
 	"menu_knifefight"
